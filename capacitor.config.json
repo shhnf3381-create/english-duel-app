@@ -1,0 +1,12 @@
+{
+  "appId": "com.badr.englishduel",
+  "appName": "English Duel",
+  "webDir": "www",
+  "server": {
+    "url": "https://english-duel-1.onrender.com/",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
